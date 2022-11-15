@@ -1,3 +1,0 @@
-return { 
-  "4AADBF50-EFB7-4A6B-BD4F-64815712D9C4" 
-}
